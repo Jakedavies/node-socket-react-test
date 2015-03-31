@@ -1,0 +1,15 @@
+.main-title{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+table {
+    empty-cells: show;
+}
+span.glyphicon{
+  background: rgb(237,237,237);
+  border-radius: 10px;
+  padding: 3px;
+}
+span.glyphicon-ok{
+  color:green;
+}
